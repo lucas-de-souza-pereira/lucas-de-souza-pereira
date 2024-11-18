@@ -1,17 +1,29 @@
 ## Hi there 👋
 
-**lucas-de-souza-pereira/lucas-de-souza-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/lucas-de-souza-pereira/lucas-de-souza-pereira"/> 
+ <!-- <img src="https://badges.pufler.dev/years/lucas-de-souza-pereira"/> -->
+ <img src="https://badges.pufler.dev/repos/lucas-de-souza-pereira"/>
+ <img src="https://badges.pufler.dev/commits/monthly/lucas-de-souza-pereira" />
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## A propos de moi 
+
+Après 10 ans d'expérience dans le domaine de la mécanique industrielle, j'ai décidé de me réorienter. Ma réflexion m'a conduit vers
+le métier de développeur web. 
+
+Actuellement en <a href="https://laplateforme.io/bachelor-it/" target="_blank">bachelor IT</a> à l'école de LA PLATEFORME sur Marseille, je souhaite concrétiser ce projet en suivant une formation qui me permettra d'acquérir toutes les
+compétences nécessaires à ma réussite.
+
+## 🔧 Languages and Tools: 
+
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+</p>
+
 
 ## GitHub stats
 
