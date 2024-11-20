@@ -38,6 +38,7 @@ Depuis je concrétise ce projet en suivant une formation <a href="https://laplat
 
 
 <!-- stats language -->
+<p align="center">
 <a href="https://github.com/lucas-de-souza-pereira/lucas-de-souza-pereira">
   <img height=165 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-de-souza-pereira&layout=compact&langs_count=8&card_width=300&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&locale=fr" />
 </a>
@@ -45,7 +46,7 @@ Depuis je concrétise ce projet en suivant une formation <a href="https://laplat
 <a href="https://github.com/lucas-de-souza-pereira/lucas-de-souza-pereira">
   <img height=165  align="center"  src="https://github-readme-stats.vercel.app/api?username=lucas-de-souza-pereira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&locale=fr" alt="Lucas's GitHub Stats" />
 </a>
-
+</p>
 
 
 
