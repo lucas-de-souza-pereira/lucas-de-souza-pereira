@@ -16,7 +16,7 @@
 
 Après 10 ans d'expérience dans le domaine de la mécanique industrielle, j'ai décidé de me réorienter. 
 Ma réflexion m'a conduit vers
-le métier de développeur web. 
+le métier de développeur logiciel. 
 
 Depuis je concrétise ce projet en suivant une formation <a href="https://laplateforme.io/bachelor-it/" target="_blank">bachelor IT</a> à l'école de LA PLATEFORME sur Marseille !
 
