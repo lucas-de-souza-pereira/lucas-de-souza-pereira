@@ -19,6 +19,8 @@ Aujourd'hui, je suis étudiant en **Développement IA** chez OpenClassrooms. J'a
 
 ### 📊 Statistiques GitHub
 
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-de-souza-pereira&show_icons=true&theme=dark&count_private=true" alt="Stats de Lucas" />
