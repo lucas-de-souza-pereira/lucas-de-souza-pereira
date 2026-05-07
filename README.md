@@ -21,6 +21,16 @@ Aujourd'hui, je suis étudiant en **Développement IA** chez OpenClassrooms. J'a
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=lucas-de-souza-pereira&show_icons=true&theme=radical)
 
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-souza-pereira&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-de-souza-pereira&theme=black-ice)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-de-souza-pereira&show_icons=true&theme=dark&count_private=true" alt="Stats de Lucas" />
